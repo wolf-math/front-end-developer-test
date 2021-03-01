@@ -1,0 +1,73 @@
+[
+    {
+        "id": "0",
+        "name": "John Smith",
+        "job": "Graphics designer",
+        "location": "Rivera State 32/106",
+        "company": "Twitter, Inc.",
+        "address1": "795 Folsum Ave, Suite 600",
+        "address2": "San Francisco, CA 94107",
+        "phone": "(123) 456-7890",
+        "img": "./assets/john-smith.jpg"
+    },
+
+    {
+        "id": "1",
+        "name": "Alex Johnatan",
+        "job": "CEO",
+        "location": "Rivera State 32/106",
+        "company": "Twitter, Inc.",
+        "address1": "795 Folsum Ave, Suite 600",
+        "address2": "San Francisco, CA 94107",
+        "phone": "(123) 456-7890",
+        "img": "./assets/alex jonathan.jpg"
+    },
+        
+    {
+        "id": "2",
+        "name": "Monica Smith",
+        "job": "Marketing Manager",
+        "location": "Rivera State 32/106",
+        "company": "Twitter, Inc.",
+        "address1": "795 Folsum Ave, Suite 600",
+        "address2": "San Francisco, CA 94107",
+        "phone": "(123) 456-7890",
+        "img": "./assets/monica smith.jpg"
+    },
+
+    {
+        "id": "3",
+        "name": "Michael Zimber",
+        "job": "Sales Manager",
+        "location": "Rivera State 32/106",
+        "company": "Twitter, Inc.",
+        "address1": "795 Folsum Ave, Suite 600",
+        "address2": "San Francisco, CA 94107",
+        "phone": "(123) 456-7890",
+        "img": "./assets/michael zimber.jpg"
+    },
+
+    {
+        "id": "4",
+        "name": "Sandra Smith",
+        "job": "Graphics designer",
+        "location": "Rivera State 32/106",
+        "company": "Twitter, Inc.",
+        "address1": "795 Folsum Ave, Suite 600",
+        "address2": "San Francisco, CA 94107",
+        "phone": "(123) 456-7890",
+        "img": "./assets/sandra smith.jpg"
+    },
+
+    {
+        "id": "5",
+        "name": "Janet Carton",
+        "job": "Graphics designer",
+        "location": "Rivera State 32/106",
+        "company": "Twitter, Inc.",
+        "address1": "795 Folsum Ave, Suite 600",
+        "address2": "San Francisco, CA 94107",
+        "phone": "(123) 456-7890",
+        "img": "./assets/janeth carton.jpg"
+    }
+]

@@ -1,0 +1,34 @@
+.card {
+  display: flex;
+  border-color: 1px black;
+  border: solid;
+  width: 600px;
+  margin: 10px;
+  border-radius: 5px;
+
+  .imagecap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    margin: 15px;
+
+    img {
+      border-radius: 50%;
+    }
+  }
+
+  .card-content {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .crud {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 20px;
+  }
+}
